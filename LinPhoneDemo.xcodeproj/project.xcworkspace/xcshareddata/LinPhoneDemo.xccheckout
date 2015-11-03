@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E9CA804C-D70B-485E-8B16-274DC2459CD1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LinPhoneDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>39AB981C4CA788C18F388308B875D848543171ED</key>
+		<string>github.com:lileilei1119/LinPhoneDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LinPhoneDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>39AB981C4CA788C18F388308B875D848543171ED</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:lileilei1119/LinPhoneDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>39AB981C4CA788C18F388308B875D848543171ED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>39AB981C4CA788C18F388308B875D848543171ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LinPhoneDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
